@@ -1,6 +1,6 @@
 {
   "name": "todo",
-  "homepage": ""homepage": "https://dlarge-uie.github.io/todo/",
+  "homepage": "homepage": "https://dlarge-uie.github.io/todo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
